@@ -5,7 +5,7 @@ do
 	do
         	cat  "$f"
 #	echo "next >> "
-		sleep 0.3
+		sleep 0.01
 	done
 
 done
